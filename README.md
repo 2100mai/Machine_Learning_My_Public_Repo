@@ -1,5 +1,3 @@
-# Machine_Learning_My_Public_Repo
-
 # Machine Learning using scikit-learn. 
 
 Table of contents:
