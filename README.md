@@ -5,7 +5,7 @@ Table of contents:
 2. Dimensionality reduction using Principal Component Analysis (PCA)
 3. Machine Learning models optimization and evaluation. I use `GridSearchCV` for optimization of hyperparameters. 
 4. Univariable and bivariable kernel density plots
-5. Pricipal Component Analysis (PCA)
+5. Principal Component Analysis (PCA)
 6. Spliting the data to train, test and validation segments
 7. Optimizing the hyperparameters
 8. Correlation map function definition
