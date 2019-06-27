@@ -14,7 +14,7 @@ Table of contents:
     4.1. Prediction of the species of the test sample using these algorithms
 5. Spliting the data to train, test and validation segments
 6. Optimizing the hyperparameters
-7. Fitting and predicting Speed and Score Comparison for all algorithms
+7. Speed and Score comparison for most accurare of each algorithm
 8. Correlation map function definition
 9. Metrics
     1. Precision score
@@ -44,3 +44,7 @@ Table of contents:
 
 - Neural Network (Multi-Layer Perceptron)
 ***
+
+
+
+
